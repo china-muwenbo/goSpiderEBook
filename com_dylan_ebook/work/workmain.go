@@ -35,9 +35,6 @@ type DownLoadInfo struct {
 
 var operater *Operater
 
-func work() {
-
-}
 
 type person struct {
 	AGE    int    `bson:"age"`
